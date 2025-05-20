@@ -37,6 +37,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2501340038@gmail.com)](mailto:2501340038lee@gmail.com)
 
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LutetiumCalciumLee&show_icons=true&theme=radical)](https://github.com/LutetiumCalciumLee)
+
 </div>
 
 
