@@ -2,13 +2,13 @@
 <div align="center">
 
 # 👋 Hello!  
-### I'm Jae Hyuk Lee, a student majoring in AI Software at Korea Polytechnic University.
+### I'm Jae Hyuk Lee, a student majoring in AI Software at Korea Polytechnics.
 
 ---
 
 ## 💡 About Me
 
-- Currently studying in the **Department of AI Software at Korea Polytechnic University**.
+- Currently studying in the **Department of AI Software at Korea Polytechnics**.
 - Learning various programming languages and technologies, including web programming, C, Python, Java, and Oracle.
 - Passionate about exploring new technologies and applying them to real-world projects.
 
