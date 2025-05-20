@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hello!  
-### I'm a student majoring in AI Software at Korea Polytechnic University.
+### I'm Jae Hyuk Lee, a student majoring in AI Software at Korea Polytechnic University.
 
 ---
 
