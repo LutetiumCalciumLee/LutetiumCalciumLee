@@ -30,7 +30,7 @@
 
 - Web Programming (HTML, CSS, JavaScript)
 - C Language, Python, Java
-- Oracle Database
+- SQL Database
 
 ---
 
