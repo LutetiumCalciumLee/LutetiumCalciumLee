@@ -9,7 +9,7 @@
 ## 💡 About Me
 
 - Currently studying in the **Department of AI Software at Korea Polytechnics**.
-- Learning various programming languages and technologies, including web programming, C, Python, Java, and Oracle.
+- Learning various programming languages and technologies, including web programming, C, Python, Java, and SQL.
 - Passionate about exploring new technologies and applying them to real-world projects.
 
 ---
