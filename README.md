@@ -1,4 +1,4 @@
-## Hello!
+## Self-Introduction : Lee Jae Hyuk
 <div align="center">
 
 # 👋 Hello!  
