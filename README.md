@@ -14,6 +14,14 @@
 
 ---
 
+## 🌱 Currently Learning
+
+- Web Programming (HTML, CSS, JavaScript)
+- C Language, Python, Java
+- SQL
+
+---
+
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,14 +31,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-- Web Programming (HTML, CSS, JavaScript)
-- C Language, Python, Java
-- SQL
 
 ---
 
