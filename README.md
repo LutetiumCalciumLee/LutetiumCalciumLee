@@ -3,7 +3,8 @@
 
 # Lee Jae Hyuk
 
-Completed the 2025 Korea Polytechnics AI Software High-Tech Program.
+Hello, I'm Lee Jae Hyuk. I completed the Korea Polytechnics AI Software High-Tech Program in 2025.
+This GitHub contains the projects and practices I worked on during the program.
 
 ## Tech Stack
 
@@ -63,7 +64,8 @@ LinkedIn: [https://www.linkedin.com/in/lutetiumcalcium](https://www.linkedin.com
 
 # 이재혁
 
-2025년 한국폴리텍대학 서울정수캠퍼스 인공지능소프트웨어과 하이테크과정 수료
+안녕하세요, 이재혁 입니다. 2025년 한국폴리텍대학 AI 소프트웨어 하이테크 과정을 수료했습니다.
+이 GitHub에는 하이테크 과정에서 제가 배우고 실습한 프로젝트들이 정리되어 있습니다.
 
 ## 기술 스택
 
