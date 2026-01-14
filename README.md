@@ -1,7 +1,7 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-# Introduce
+# Introduction
 
 Hello, I'm **Lee Jae Hyuk.** I completed the Korea Polytechnics **AI Software High-Tech Program** in 2025.  
 This GitHub contains the projects and practices I worked on during the program.
@@ -54,7 +54,7 @@ Flask + Docker based ML API for Iris Classification
 Web Crawling Tools using Selenium & BeautifulSoup
 
 ## Contact
-[Email](2501340038lee@gmail.com)  
+[Email](mailto:2501340038lee@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/lutetiumcalcium)
 
 </details>
@@ -112,7 +112,7 @@ Flask + Docker 기반 실시간 예측 REST API 개발
 Selenium, BeautifulSoup 기반 웹 데이터 수집 및 전처리
 
 ## 연락처
-[이메일](2501340038lee@gmail.com)    
+[이메일](mailto:2501340038lee@gmail.com)   
 [링크드인](https://www.linkedin.com/in/lutetiumcalcium)
 
 </details>
