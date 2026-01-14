@@ -113,6 +113,6 @@ Selenium, BeautifulSoup 기반 웹 데이터 수집 및 전처리
 
 ## 연락처
 [이메일](2501340038lee@gmail.com)    
-[LinkedIn](https://www.linkedin.com/in/lutetiumcalcium)
+[링크드인](https://www.linkedin.com/in/lutetiumcalcium)
 
 </details>
