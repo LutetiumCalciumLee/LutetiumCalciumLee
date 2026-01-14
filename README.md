@@ -1,9 +1,9 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-# Lee Jae Hyuk
+# Introduce
 
-Hello, I'm Lee Jae Hyuk. I completed the Korea Polytechnics AI Software High-Tech Program in 2025.
+Hello, I'm **Lee Jae Hyuk.** I completed the Korea Polytechnics **AI Software High-Tech Program** in 2025.  
 This GitHub contains the projects and practices I worked on during the program.
 
 ## Tech Stack
@@ -54,18 +54,18 @@ Flask + Docker based ML API for Iris Classification
 Web Crawling Tools using Selenium & BeautifulSoup
 
 ## Contact
-Email: 2501340038lee@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/lutetiumcalcium](https://www.linkedin.com/in/lutetiumcalcium)
+[Email](2501340038lee@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/lutetiumcalcium)
 
 </details>
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-# 이재혁
+# 자기소개
 
-안녕하세요, 이재혁 입니다. 2025년 한국폴리텍대학 AI 소프트웨어 하이테크 과정을 수료했습니다.
-이 GitHub에는 하이테크 과정에서 제가 배우고 실습한 프로젝트들이 정리되어 있습니다.
+안녕하세요. **이재혁** 입니다. 2025년 한국폴리텍대학 **인공지능소프트웨어과 하이테크 과정**을 수료했습니다.  
+이 GitHub에는 하이테크 과정에서 배우고 실습한 프로젝트들이 정리되어 있습니다.
 
 ## 기술 스택
 
@@ -112,7 +112,7 @@ Flask + Docker 기반 실시간 예측 REST API 개발
 Selenium, BeautifulSoup 기반 웹 데이터 수집 및 전처리
 
 ## 연락처
-이메일: 2501340038lee@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/lutetiumcalcium](https://www.linkedin.com/in/lutetiumcalcium)
+[이메일](2501340038lee@gmail.com)    
+[LinkedIn](https://www.linkedin.com/in/lutetiumcalcium)
 
 </details>
