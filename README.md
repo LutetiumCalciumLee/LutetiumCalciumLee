@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=240&text=Lee%20Jae%20Hyuk%27s%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=40" />
+</div>
+
+
 <details>
 <summary>ENG (English Version)</summary>
 
