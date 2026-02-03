@@ -3,6 +3,7 @@
 </div>
 
 
+
 <details>
 <summary>ENG (English Version)</summary>
 
@@ -11,13 +12,36 @@
 Hello, I'm **Lee Jae Hyuk.** I completed the Korea Polytechnics **AI Software High-Tech Program** in 2025.  
 This GitHub contains the projects and practices I worked on during the program.
 
+
 ## Tech Stack
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
+
 
 ### Programming Languages
 C, Python, Java, SQL, JavaScript (ES6+), HTML/CSS
 
 ### Backend & API
-Java Web (Servlet/JSP), Flask (REST API), SQL, Docker, MariaDB
+Java Web (Servlet/JSP), Flask (REST API), Docker, MariaDB
 
 ### Frontend
 HTML, CSS, JavaScript, React
@@ -59,10 +83,20 @@ Flask + Docker based ML API for Iris Classification
 Web Crawling Tools using Selenium & BeautifulSoup
 
 ## Contact
-[Email](mailto:2501340038lee@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/lutetiumcalcium)
+
+<p>
+  <a href="mailto:2501340038lee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2501340038lee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lutetiumcalcium">
+    <img src="https://img.shields.io/badge/LinkedIn-lutetiumcalcium-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 </details>
+
+
 
 <details>
 <summary>KOR (한국어 버전)</summary>
@@ -74,11 +108,33 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 ## 기술 스택
 
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
+
+
 ### 프로그래밍 언어
 C, Python, Java, SQL, JavaScript (ES6+), HTML/CSS
 
 ### 백엔드 & API 개발
-Java Web(Servlet/JSP), Flask REST API, SQL, Docker, MariaDB
+Java Web(Servlet/JSP), Flask REST API, Docker, MariaDB
 
 ### 프론트엔드
 HTML, CSS, JavaScript, React
@@ -117,7 +173,15 @@ Flask + Docker 기반 실시간 예측 REST API 개발
 Selenium, BeautifulSoup 기반 웹 데이터 수집 및 전처리
 
 ## 연락처
-[이메일](mailto:2501340038lee@gmail.com)   
-[링크드인](https://www.linkedin.com/in/lutetiumcalcium)
+
+<p align="left">
+  <a href="mailto:2501340038lee@gmail.com">
+    <img src="https://img.shields.io/badge/이메일-2501340038lee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lutetiumcalcium">
+    <img src="https://img.shields.io/badge/링크드인-lutetiumcalcium-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 </details>
