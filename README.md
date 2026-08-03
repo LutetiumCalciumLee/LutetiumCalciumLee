@@ -10,7 +10,7 @@
 # Introduction
 
 Hello, I'm **Lee Jae Hyuk.** I completed the Korea Polytechnics **AI Software High-Tech Program** in 2025.  
-This GitHub contains the projects and practices I worked on during the program.
+This GitHub contains projects completed during the program, as well as personal projects that I continue to develop.
 
 ## Certification
 - ADsP (Advanced Data Analytics Semi-Professional), obtained in Korea, June 2026
@@ -106,7 +106,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 # 자기소개
 
 안녕하세요. **이재혁** 입니다. 2025년 한국폴리텍대학 **인공지능소프트웨어과 하이테크 과정**을 수료했습니다.  
-이 GitHub에는 하이테크 과정에서 배우고 실습한 프로젝트들이 정리되어 있습니다.
+이 GitHub에는 하이테크 과정에서 진행한 프로젝트를 비롯해, 이후에도 꾸준히 개발하고 있는 개인 프로젝트들을 정리하고 있습니다.
 
 ## 자격증
 - ADsP(데이터분석 준전문가), 2026년 6월 취득
@@ -187,6 +187,4 @@ Selenium, BeautifulSoup 기반 웹 데이터 수집 및 전처리
     <img src="https://img.shields.io/badge/링크드인-lutetiumcalcium-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
 </details>
