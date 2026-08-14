@@ -13,7 +13,7 @@ Hello, I'm **Lee Jae Hyuk.** I completed the Korea Polytechnics **AI Software Hi
 This GitHub contains projects completed during the program, as well as personal projects that I continue to develop.
 
 ## Certification
-- ADsP (Advanced Data Analytics Semi-Professional), obtained in Korea, June 2026
+- [ADsP (Advanced Data Analytics Semi-Professional), obtained in Korea, June 2026](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes)
 
 ## Tech Stack
 
@@ -109,7 +109,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 이 GitHub에는 하이테크 과정에서 진행한 프로젝트를 비롯해, 이후에도 꾸준히 개발하고 있는 개인 프로젝트들을 정리하고 있습니다.
 
 ## 자격증
-- ADsP(데이터분석 준전문가), 2026년 6월 취득
+- [ADsP(데이터분석 준전문가), 2026년 6월 취득](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes)
 
 ## 기술 스택
 
