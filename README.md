@@ -40,13 +40,13 @@ This GitHub contains projects completed during the program, as well as personal 
 
 
 ### Programming Languages
-C, Python, Java, SQL, JavaScript (ES6+), HTML/CSS
+C, Python, Java, SQL, [HTML/CSS/JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
 
 ### Backend & API
 Java Web (Servlet/JSP), Flask (REST API), Docker, MariaDB
 
 ### Frontend
-HTML, CSS, JavaScript, React
+[HTML/CSS/JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript), React
 
 ### Data Structures & Algorithms
 Arrays, Linked Lists, Trees, Graphs, Sorting, Recursion
@@ -136,13 +136,13 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 
 ### 프로그래밍 언어
-C, Python, Java, SQL, JavaScript (ES6+), HTML/CSS
+C, Python, Java, SQL, [HTML/CSS/JavsScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
 
 ### 백엔드 & API 개발
 Java Web(Servlet/JSP), Flask REST API, Docker, MariaDB
 
 ### 프론트엔드
-HTML, CSS, JavaScript, React
+[HTML/CSS/JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript), React
 
 ### 자료구조 및 알고리즘
 배열, 연결리스트, 트리, 그래프, 정렬, 재귀 등
