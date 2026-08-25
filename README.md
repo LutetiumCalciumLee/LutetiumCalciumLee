@@ -20,7 +20,7 @@ as well as personal studies and projects that I continue to work on.
 
 ### Programming Languages
 - [C](https://github.com/LutetiumCalciumLee/Studying_C_lang)
-- Python
+- [Python](https://github.com/LutetiumCalciumLee/Studying_Python)
 - Java
 - SQL
 
@@ -120,7 +120,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 ### 프로그래밍 언어
 - [C](https://github.com/LutetiumCalciumLee/Studying_C_lang)
-- Python
+- [Python](https://github.com/LutetiumCalciumLee/Studying_Python)
 - Java
 - SQL
 
