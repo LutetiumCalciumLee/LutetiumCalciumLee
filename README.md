@@ -8,10 +8,11 @@
 <summary>ENG (English Version)</summary>
 
 # Introduction
-Hello, I'm **Lee Jae Hyuk.**
+Hello, I'm **Lee Jae Hyuk.**  
 I completed the Korea Polytechnics AI Software High-Tech Program in 2025.  
-This GitHub contains my study notes and projects from the program,  
-as well as personal studies and projects that I continue to work on.
+This GitHub contains the study materials and projects I worked on during the program,  
+as well as the personal studies and projects I have continued to pursue since then.
+
 
 ## Certification
 - [ADsP (Advanced Data Analytics Semi-Professional)](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes), Obtained in Korea, June 2026
@@ -108,10 +109,10 @@ Web Crawling Tools using Selenium & BeautifulSoup
 <summary>KOR (한국어 버전)</summary>
 
 # 소개
-안녕하세요. **이재혁**입니다.  
-2025년 한국폴리텍대학 인공지능소프트웨어과 하이테크 과정을 수료했습니다.  
-이 GitHub에는 하이테크 과정에서 학습한 내용과 프로젝트를 비롯해  
-이후에도 꾸준히 진행하고 있는 개인 학습 내용과 프로젝트를 정리하고 있습니다.
+안녕하세요. 이재혁입니다.  
+2025년 한국폴리텍대학 인공지능소프트웨어과 하이테크 과정을 수료했습니다.   
+이 GitHub에는 하이테크 과정 당시 학습한 내용과 프로젝트를 시작으로,  
+이후 꾸준히 진행해 온 개인 학습과 프로젝트를 정리하고 있습니다.
 
 ## 자격증
 - [ADsP (데이터분석 준전문가)](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes), 2026년 6월 취득
@@ -129,8 +130,8 @@ Web Crawling Tools using Selenium & BeautifulSoup
 - React
 - Java 웹 프로그래밍
 
-### 컴퓨터 과학
-- [컴퓨터 과학](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
+### 컴퓨터 공학
+- [컴퓨터 개론](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
 - 자료구조
 - 소프트웨어 공학
 - Linux
