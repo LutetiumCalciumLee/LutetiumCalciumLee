@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=240&text=Lee%20Jae%20Hyuk%27s%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=240&text=Lee%20Jae%20Hyuk%27s%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 
 
@@ -44,7 +44,6 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### Web Data Collection & Automation
 - Web Scraping
-Selenium · BeautifulSoup · Requests
 
 
 ## Tech Stack
@@ -144,7 +143,6 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 ### 웹 데이터 수집 및 자동화
 - 웹 스크래핑  
-Selenium · BeautifulSoup · Requests
 
 
 ## 기술 스택
