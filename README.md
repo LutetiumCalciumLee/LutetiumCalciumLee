@@ -9,7 +9,7 @@
 
 # Introduction
 Hello, I'm **Lee Jae Hyuk.**  
-I completed the Korea Polytechnics AI Software High-Tech Program in 2025.  
+I completed the Korea Polytechnics **AI Software** High-Tech Program in 2025.  
 This GitHub contains the study materials and projects I worked on during the program,  
 as well as the personal studies and projects I have continued to pursue since then.
 
@@ -109,7 +109,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 # 소개
 안녕하세요.  
-2025년 한국폴리텍대학 인공지능소프트웨어과 하이테크 과정을 수료한 **이재혁**입니다.    
+2025년 한국폴리텍대학 **인공지능소프트웨어과** 하이테크 과정을 수료한 **이재혁**입니다.    
 이 GitHub에는 하이테크 과정 당시 학습한 내용과 프로젝트를 시작으로  
 이후 꾸준히 진행해 온 개인 학습과 프로젝트를 정리하고 있습니다.
 
