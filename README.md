@@ -23,7 +23,7 @@ as well as the personal studies and projects I have continued to pursue since th
 - [C](https://github.com/LutetiumCalciumLee/Studying_C_lang)
 - [Python](https://github.com/LutetiumCalciumLee/Studying_Python)
 - Java
-- SQL
+- [SQL](https://github.com/LutetiumCalciumLee/Studying_SQL)
 
 ### Web Development
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
@@ -32,8 +32,8 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### Computer Science
 - [Computer Science](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
-- Data Structures
-- Software Engineering
+- [Data Structures](https://github.com/LutetiumCalciumLee/Studying_Data_Structures)
+- [Software Engineering](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering)
 - Linux
 
 ### Data & AI
@@ -122,7 +122,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 - [C](https://github.com/LutetiumCalciumLee/Studying_C_lang)
 - [Python](https://github.com/LutetiumCalciumLee/Studying_Python)
 - Java
-- SQL
+- [SQL](https://github.com/LutetiumCalciumLee/Studying_SQL)
 
 ### 웹 개발
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
@@ -131,8 +131,8 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 ### 컴퓨터 공학
 - [컴퓨터 개론](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
-- 자료구조
-- 소프트웨어 공학
+- [자료구조](https://github.com/LutetiumCalciumLee/Studying_Data_Structures)
+- [소프트웨어 공학](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering)
 - Linux
 
 ### 데이터 및 AI
