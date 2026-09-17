@@ -29,7 +29,7 @@ as well as the personal studies and projects I have continued to pursue since th
 
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
 - React
-- Java Web Programming
+- [Java Web Programming](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming)
 
 ### Computer Science
 
@@ -42,7 +42,7 @@ as well as the personal studies and projects I have continued to pursue since th
 
 - [AI Fundamentals](https://github.com/LutetiumCalciumLee/Studying_AI_Introduction)
 - AI Model Training
-- Keras
+- [Keras](https://github.com/LutetiumCalciumLee/Studying_Keras)
 - Computer Vision
 
 ### Web Data Collection & Automation
@@ -137,7 +137,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
 - React
-- Java 웹 프로그래밍
+- [Java 웹 프로그래밍](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming)
 
 ### 컴퓨터 공학
 
@@ -150,7 +150,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 - [인공지능 기초](https://github.com/LutetiumCalciumLee/Studying_AI_Introduction)
 - AI 모델 학습
-- Keras
+- [Keras](https://github.com/LutetiumCalciumLee/Studying_Keras)
 - 컴퓨터 비전
 
 ### 웹 데이터 수집 및 자동화
