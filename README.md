@@ -28,7 +28,7 @@ as well as the personal studies and projects I have continued to pursue since th
 ### Web Development
 
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
-- React
+- [React](https://github.com/LutetiumCalciumLee/Studying_React)
 - [Java Web Programming](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming)
 
 ### Computer Science
@@ -47,7 +47,7 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### Web Data Collection & Automation
 
-- Web Scraping
+- [Web Scraping](https://github.com/LutetiumCalciumLee/Studying_Web_Scraping)
 
 ## Tech Stack
 
@@ -94,9 +94,9 @@ as well as the personal studies and projects I have continued to pursue since th
 
 Flask + Docker based ML API for Iris Classification
 
-### Web Automation Projects
+### Web Scraping & React Web App
 
-Web Crawling Tools using Selenium & BeautifulSoup
+React + Python + Supabase based [KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## Contact
 
@@ -136,7 +136,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 ### 웹 개발
 
 - [HTML / CSS / JavaScript](https://github.com/LutetiumCalciumLee/Studying_HTML_CSS_JavaScript)
-- React
+- [React](https://github.com/LutetiumCalciumLee/Studying_React)
 - [Java 웹 프로그래밍](https://github.com/LutetiumCalciumLee/Studying_Java_Web_Programming)
 
 ### 컴퓨터 공학
@@ -155,7 +155,7 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 ### 웹 데이터 수집 및 자동화
 
-- 웹 스크래핑
+- [웹 스크래핑](https://github.com/LutetiumCalciumLee/Studying_Web_Scraping)
 
 ## 기술 스택
 
@@ -202,9 +202,9 @@ Web Crawling Tools using Selenium & BeautifulSoup
 
 Flask + Docker 기반 붓꽃(Iris) 분류 머신러닝 API
 
-### 웹 자동화 프로젝트
+### 웹 스크래핑 기반 React 웹 애플리케이션
 
-Selenium 및 BeautifulSoup을 활용한 웹 크롤링 도구
+React + Python + Supabase 기반 [KBO 리그 최애팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## 연락처
 
