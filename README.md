@@ -84,7 +84,7 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### Computer Vision Projects
 
-- Driver Drowsiness Detection
+- [Driver Drowsiness Detection](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
 - Open Vocabulary Detection
 - Human Pose Estimation
 - License Plate Recognition
@@ -96,7 +96,7 @@ Flask + Docker based ML API for Iris Classification
 
 ### Web Scraping & React Web App
 
-[KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project) (React + Python + Supabase based)
+[KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## Contact
 
@@ -192,7 +192,7 @@ Flask + Docker based ML API for Iris Classification
 
 ### 컴퓨터 비전 프로젝트
 
-- 운전자 졸음 감지
+- [운전자 졸음 감지](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
 - Open Vocabulary 객체 탐지
 - 사람 자세 추정
 - 자동차 번호판 인식
@@ -204,7 +204,7 @@ Flask + Docker 기반 붓꽃(Iris) 분류 머신러닝 API
 
 ### 웹 스크래핑 기반 React 웹 애플리케이션
 
-[KBO 리그 최애팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project) (React + Python + Supabase 기반)
+[KBO 리그 최애팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## 연락처
 
