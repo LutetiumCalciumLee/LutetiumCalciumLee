@@ -9,8 +9,7 @@
 
 Hello, I'm **Lee Jae Hyuk.**  
 I completed the Korea Polytechnics **AI Software** High-Tech Program in 2025.  
-This GitHub contains the study materials and projects I worked on during the program,  
-as well as the personal studies and projects I have continued to pursue since then.
+This GitHub contains the study materials and projects I worked on during the program, as well as the personal studies and projects I have continued to pursue since then.
 
 ## Certification
 
@@ -92,11 +91,11 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### Full Stack AI Web App
 
-Flask + Docker based ML API for Iris Classification
+- Flask + Docker based ML API for Iris Classification
 
 ### Web Scraping & React Web App
 
-[KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
+- [KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## Contact
 
@@ -116,7 +115,7 @@ Flask + Docker based ML API for Iris Classification
 # 소개
 
 안녕하세요.  
-2025년 한국폴리텍대학 **인공지능소프트웨어과** 하이테크 과정을 수료한 **이재혁**입니다.  
+2025년 한국폴리텍대학 **인공지능소프트웨어과** 하이테크 과정을 수료한 **이재혁** 입니다.  
 이 GitHub에는 하이테크 과정 당시 학습한 내용과 프로젝트를 시작으로  
 이후 꾸준히 진행해 온 개인 학습과 프로젝트를 정리하고 있습니다.
 
@@ -200,11 +199,11 @@ Flask + Docker based ML API for Iris Classification
 
 ### 풀스택 AI 웹 애플리케이션
 
-Flask + Docker 기반 붓꽃(Iris) 분류 머신러닝 API
+- Flask + Docker 기반 붓꽃(Iris) 분류 머신러닝 API
 
 ### 웹 스크래핑 기반 React 웹 애플리케이션
 
-[KBO 리그 최애팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
+- [KBO 리그 응원팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## 연락처
 
