@@ -84,7 +84,7 @@ This GitHub contains the study materials and projects I worked on during the pro
 ### Computer Vision Projects
 
 - [Driver Drowsiness Detection](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
-- Open Vocabulary Detection
+- [Open Vocabulary Detection](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.04)
 - Human Pose Estimation
 - License Plate Recognition
 - 3D Object Detection
@@ -192,7 +192,7 @@ This GitHub contains the study materials and projects I worked on during the pro
 ### 컴퓨터 비전 프로젝트
 
 - [운전자 졸음 감지](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
-- Open Vocabulary 객체 탐지
+- [Open Vocabulary 객체 탐지](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.04)
 - 사람 자세 추정
 - 자동차 번호판 인식
 - 3D 객체 탐지
