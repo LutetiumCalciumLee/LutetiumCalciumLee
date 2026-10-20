@@ -9,7 +9,8 @@
 
 Hello, I'm **Lee Jae Hyuk.**  
 I completed the Korea Polytechnics **AI Software** High-Tech Program in 2025.  
-This GitHub contains the study materials and projects I worked on during the program, as well as the personal studies and projects I have continued to pursue since then.
+This GitHub contains the study materials and projects I worked on during the program,  
+as well as the personal studies and projects I have continued to pursue since then.
 
 ## Certification
 
@@ -83,15 +84,11 @@ This GitHub contains the study materials and projects I worked on during the pro
 
 ### Computer Vision Projects
 
-- [Driver Drowsiness Detection](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
-- [Open Vocabulary Detection](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.04)
-- Human Pose Estimation
-- License Plate Recognition
-- 3D Object Detection
+-
 
 ### Full Stack AI Web App
 
-- Flask + Docker based ML API for Iris Classification
+- 
 
 ### Web Scraping & React Web App
 
@@ -191,15 +188,11 @@ This GitHub contains the study materials and projects I worked on during the pro
 
 ### 컴퓨터 비전 프로젝트
 
-- [운전자 졸음 감지](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.03)
-- [Open Vocabulary 객체 탐지](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision/tree/Project-Test.04)
-- 사람 자세 추정
-- 자동차 번호판 인식
-- 3D 객체 탐지
+- 
 
 ### 풀스택 AI 웹 애플리케이션
 
-- Flask + Docker 기반 붓꽃(Iris) 분류 머신러닝 API
+- 
 
 ### 웹 스크래핑 기반 React 웹 애플리케이션
 
