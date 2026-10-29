@@ -9,7 +9,8 @@
 
 Hello, I'm **Lee Jae Hyuk.**  
 I completed the Korea Polytechnics **AI Software** High-Tech Program in 2025.  
-This GitHub contains the study materials and projects I worked on during the program, as well as the personal studies and projects I have continued to pursue since then.
+This GitHub contains the study materials and projects I worked on during the program,  
+as well as the personal studies and projects I have continued to pursue since then.
 
 ## Certification
 
