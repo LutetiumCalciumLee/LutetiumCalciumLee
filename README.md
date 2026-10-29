@@ -9,8 +9,7 @@
 
 Hello, I'm **Lee Jae Hyuk.**  
 I completed the Korea Polytechnics **AI Software** High-Tech Program in 2025.  
-This GitHub contains the study materials and projects I worked on during the program,  
-as well as the personal studies and projects I have continued to pursue since then.
+This GitHub contains the study materials and projects I worked on during the program, as well as the personal studies and projects I have continued to pursue since then.
 
 ## Certification
 
@@ -36,12 +35,12 @@ as well as the personal studies and projects I have continued to pursue since th
 - [Computer Science](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
 - [Data Structures](https://github.com/LutetiumCalciumLee/Studying_Data_Structures)
 - [Software Engineering](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering)
-- Linux
+- [Linux](https://github.com/LutetiumCalciumLee/Studying_Linux)
 
 ### Data & AI
 
 - [AI Fundamentals](https://github.com/LutetiumCalciumLee/Studying_AI_Introduction)
-- AI Model Training
+- [AI Model Training](https://github.com/LutetiumCalciumLee/Studying_AI_Model_Training)
 - [Keras](https://github.com/LutetiumCalciumLee/Studying_Keras)
 - [Computer Vision](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision)
 
@@ -83,15 +82,12 @@ as well as the personal studies and projects I have continued to pursue since th
 ## Projects
 
 ### Computer Vision Projects
-
--
+- 
 
 ### Full Stack AI Web App
-
 - 
 
 ### Web Scraping & React Web App
-
 - [KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## Contact
@@ -106,7 +102,7 @@ as well as the personal studies and projects I have continued to pursue since th
 </p>
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 소개
@@ -140,12 +136,12 @@ as well as the personal studies and projects I have continued to pursue since th
 - [컴퓨터 개론](https://github.com/LutetiumCalciumLee/Studying_Computer_Science)
 - [자료구조](https://github.com/LutetiumCalciumLee/Studying_Data_Structures)
 - [소프트웨어 공학](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering)
-- Linux
+- [Linux](https://github.com/LutetiumCalciumLee/Studying_Linux)
 
 ### 데이터 및 AI
 
 - [인공지능 기초](https://github.com/LutetiumCalciumLee/Studying_AI_Introduction)
-- AI 모델 학습
+- [AI 모델 학습](https://github.com/LutetiumCalciumLee/Studying_AI_Model_Training)
 - [Keras](https://github.com/LutetiumCalciumLee/Studying_Keras)
 - [컴퓨터 비전](https://github.com/LutetiumCalciumLee/Studying_Computer_Vision)
 
@@ -187,15 +183,12 @@ as well as the personal studies and projects I have continued to pursue since th
 ## 프로젝트
 
 ### 컴퓨터 비전 프로젝트
-
 - 
 
 ### 풀스택 AI 웹 애플리케이션
-
 - 
 
 ### 웹 스크래핑 기반 React 웹 애플리케이션
-
 - [KBO 리그 응원팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
 ## 연락처
