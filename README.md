@@ -83,7 +83,7 @@ as well as the personal studies and projects I have continued to pursue since th
 ## Projects
 
 ### Computer Vision Projects
-- 
+- [Hemiplegia Rehabilitation Using AI-Based Pose Estimation](https://github.com/LutetiumCalciumLee/Hemiplegia_Rehabilitation_Using_AI-Based_Pose_Estimation_Project)
 
 ### Full Stack AI Web App
 - 
@@ -184,7 +184,7 @@ as well as the personal studies and projects I have continued to pursue since th
 ## 프로젝트
 
 ### 컴퓨터 비전 프로젝트
-- 
+- [편마비 환자 재활 운동을 위한 AI 기반 Pose Estimation](https://github.com/LutetiumCalciumLee/Hemiplegia_Rehabilitation_Using_AI-Based_Pose_Estimation_Project)
 
 ### 풀스택 AI 웹 애플리케이션
 - 
