@@ -85,9 +85,6 @@ as well as the personal studies and projects I have continued to pursue since th
 ### Computer Vision Projects
 - [Hemiplegia Rehabilitation Using AI-Based Pose Estimation](https://github.com/LutetiumCalciumLee/Hemiplegia_Rehabilitation_Using_AI-Based_Pose_Estimation_Project)
 
-### Full Stack AI Web App
-- 
-
 ### Web Scraping & React Web App
 - [KBO Favorite Team Weekly Jersey Number Lotto](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
 
@@ -185,9 +182,6 @@ as well as the personal studies and projects I have continued to pursue since th
 
 ### 컴퓨터 비전 프로젝트
 - [편마비 환자 재활 운동을 위한 AI 기반 Pose Estimation](https://github.com/LutetiumCalciumLee/Hemiplegia_Rehabilitation_Using_AI-Based_Pose_Estimation_Project)
-
-### 풀스택 AI 웹 애플리케이션
-- 
 
 ### 웹 스크래핑 기반 React 웹 애플리케이션
 - [KBO 리그 응원팀 주간 등번호 로또](https://github.com/LutetiumCalciumLee/My_favorite_KBO_team_Lotto_Project)
