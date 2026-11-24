@@ -198,3 +198,10 @@ as well as the personal studies and projects I have continued to pursue since th
 </p>
 
 </details>
+
+
+<div align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+</div>
